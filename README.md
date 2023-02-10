@@ -7,7 +7,7 @@
 I'm Bruno. 
 
 - 🔭 I’m currently working as a teacher
-- 🌱 I’m currently learning Python and HTML5/CSS3
+- 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate on open-source projects in near future
 - 🤔 I’m looking for help with data-science and web development
 - 💬 Ask me about ...
