@@ -1,6 +1,6 @@
 Hi there 👋 I'm Bruno.
 
-- 🔭 I’m currently working as an **Intern Full Stack Developer** at Target Work and as a **Front End Developer & Commercial Director** at IN Junior.
+- 🔭 I’m currently working as an **Intern Full Stack Developer**.
 - 🌱 I’m currently focused on end-to-end development using **React, TypeScript, Next.js, and C# (.NET)**, as well as mobile app development with **React Native (Expo)**.
 - 👯 I’m looking to collaborate on open-source projects in the near future.
 - 🤔 I’m looking for help with data science and advanced web development.
